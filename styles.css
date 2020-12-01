@@ -184,7 +184,7 @@ body {
 .search-button {
     display: flex;
     align-items: center;
-    padding: 0 5rem;
+    padding: 0 1.25rem;
     border: 1px solid #777;
     background-color: #F8F8F8;
     border-left: none;
